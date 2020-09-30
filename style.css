@@ -1,0 +1,23 @@
+.poloska{
+	width: 400px;
+	height: 15px;
+	background-color: #c5c5c5;
+	margin-bottom: 20px;
+}
+.filled{
+	height: 15px;
+	background: rgb(179,78,246);
+    background: linear-gradient(90deg, rgba(179,78,246,1) 0%, rgba(252,96,24,1) 100%);
+}
+.f1{
+	width: 80%;
+}
+.f2{
+	width: 95%;
+}
+.f3{
+	width: 65%;
+}
+.f4{
+	width: 72%;
+}
